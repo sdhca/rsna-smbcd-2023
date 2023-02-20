@@ -1,0 +1,13 @@
+{
+  "id": "stephenhudson/rsna-smbcd-2023-model-fit",
+  "title": "RSNA-SMBCD-2023 - Model Fit",
+  "code_file": "rsna-smbcd-2023-model-fit.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "dataset_sources": ["stephenhudson/neptune-dotenv", "stephenhudson/rsna-smbcd-2023-zipped-dfs"],
+  "competition_sources": [],
+  "kernel_sources": ["stephenhudson/rsna-smbcd-2023-data-prep"]
+}
