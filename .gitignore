@@ -1,0 +1,14 @@
+.env
+*.png
+*.pkl
+*.zip
+*.csv
+*.tgz
+*Zone.Identifier
+*.log
+*~
+.ipynb_checkpoints
+.neptune
+Untitled*.ipynb
+*.whl
+train_images
